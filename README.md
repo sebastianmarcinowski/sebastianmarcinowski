@@ -28,3 +28,9 @@ I'm currently looking forward for an internship/practice.
     <li>C# / Entity Framework Core</li>
   </ul>
 </ul>
+
+<b>Contact</b>
+<ul>
+  <li>Email:</li>
+  <li>LinkedIn:<a href="https://www.linkedin.com/in/sebastian-marcinowski-65620b351/">LinkedIn Profile</a></li>
+</ul>
