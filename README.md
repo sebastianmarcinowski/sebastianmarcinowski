@@ -7,7 +7,7 @@ I'm Sebastian Marcinowski, a third-year computer science student at the West Pom
 I'm currently looking forward for an internship/practice.
 
 
-<b>Projects</b>
+## <b>Projects</b>
 <ul>
   <li>Better Plan for ZUT: <a href="https://github.com/sebastianmarcinowski/BetterPlan-Projekt-CaleTe">Projekt Całe-Te</a></li>
 </ul>
