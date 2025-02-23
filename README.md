@@ -15,11 +15,11 @@ I'm currently looking forward for an internship/practice.
 
 ## <b>Technologies</b>
 <ul>
-  <li>PHP, JS, HTML, CSS</li>
+  <b><li>PHP, JS, HTML, CSS</li></b>
   <ul>
-    <li><a href="https://github.com/sebastianmarcinowski/Aplikacje-Internetowe-1">Web Applications</a></li>
+    <li style="list-style: inside;"><a href="https://github.com/sebastianmarcinowski/Aplikacje-Internetowe-1">Web Applications</a></li>
   </ul>
-  <li>C/C++</li>
+  <b><li>C/C++</li></b>
     <ul>
       <li>
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%202/C%20and%20C%2B%2B%20Programming">C/C++ course</a>
@@ -31,7 +31,7 @@ I'm currently looking forward for an internship/practice.
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%204/Data%20Transmission">Data Transmission</a>
       </li>
     </ul>
-  <li>Python</li>
+  <b><li>Python</li></b>
     <ul>
       <li>
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%203/Python">Python course</a>
@@ -40,19 +40,25 @@ I'm currently looking forward for an internship/practice.
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%204/Data%20Processing%20and%20Analysis%20(PiAD)">Data Processing and Analysis</a>
       </li>
     </ul>
-  <li>AI</li>
+  <b><li>AI</li></b>
     <ul>
       <li>
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%205/Artificial%20Intelligence">Artificial Intelligence</a>
       </li>
     </ul>
-  <li>Matlab</li>
+  <b><li>Matlab</li></b>
     <ul>
       <li>
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%203/Numerical%20Methods">Numericla Methods</a>
       </li>
     </ul>
-  <li>and also basics of:</li>
+  <b><li>Databases MySQL/SQLite</li></b>
+    <ul>
+      <li>
+        <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%205/Data%20Managment">Data Managment</a>
+      </li>
+    </ul>
+  <b><li>and also basics of:</li></b>
   <ul>
     <li>Git</li>
     <li>Linux</li>
