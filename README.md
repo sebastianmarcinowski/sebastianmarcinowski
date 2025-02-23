@@ -12,15 +12,14 @@ I'm currently looking forward for an internship/practice.
   <li>Better Plan for ZUT: <a href="https://github.com/sebastianmarcinowski/BetterPlan-Projekt-CaleTe">Projekt Całe-Te</a></li>
 </ul>
 
-
 ## <b>Technologies</b>
-<ul>
+<ul style="list-style-position: inside;">
   <b><li>PHP, JS, HTML, CSS</li></b>
-  <ul>
-    <li style="list-style: inside;"><a href="https://github.com/sebastianmarcinowski/Aplikacje-Internetowe-1">Web Applications</a></li>
+  <ul style="list-style-position: inside;">
+    <li><a href="https://github.com/sebastianmarcinowski/Aplikacje-Internetowe-1">Web Applications</a></li>
   </ul>
   <b><li>C/C++</li></b>
-    <ul>
+    <ul style="list-style-position: inside;">
       <li>
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%202/C%20and%20C%2B%2B%20Programming">C/C++ course</a>
       </li>
@@ -32,34 +31,34 @@ I'm currently looking forward for an internship/practice.
       </li>
     </ul>
   <b><li>Python</li></b>
-    <ul>
+    <ul style="list-style-position: inside;">
       <li>
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%203/Python">Python course</a>
       </li>
       <li>
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%204/Data%20Processing%20and%20Analysis%20(PiAD)">Data Processing and Analysis</a>
       </li>
-    </ul>
+    </ul style="list-style-position: inside;">
   <b><li>AI</li></b>
-    <ul>
+    <ul style="list-style-position: inside;">
       <li>
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%205/Artificial%20Intelligence">Artificial Intelligence</a>
       </li>
     </ul>
   <b><li>Matlab</li></b>
-    <ul>
+    <ul style="list-style-position: inside;">
       <li>
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%203/Numerical%20Methods">Numericla Methods</a>
       </li>
     </ul>
   <b><li>Databases MySQL/SQLite</li></b>
-    <ul>
+    <ul style="list-style-position: inside;">
       <li>
         <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%205/Data%20Managment">Data Managment</a>
       </li>
     </ul>
   <b><li>and also basics of:</li></b>
-  <ul>
+  <ul style="list-style-position: inside;">
     <li>Git</li>
     <li>Linux</li>
     <li>Java</li>
@@ -70,6 +69,6 @@ I'm currently looking forward for an internship/practice.
 
 ## <b>Contact</b>
 <ul>
-  <li>Email:</li>
+  <li>Email: sebastian.marcinowskig2@gmail.com</li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/sebastian-marcinowski-65620b351/">LinkedIn Profile</a></li>
 </ul>
