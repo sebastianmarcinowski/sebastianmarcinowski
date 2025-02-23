@@ -1,31 +1,30 @@
-## Hi there 👋
+## Hi there, I'm Sebastian 👋
 
 <b>About Me</b>
 
-Hi! I'm Sebastian Marcinowski, a third-year computer science student at the West Pomeranian University of Technology in Szczecin.
+I'm Sebastian Marcinowski, a third-year computer science student at the West Pomeranian University of Technology in Szczecin.
 
-<b>🚀 Skills & Technologies</b>
+I'm currently looking forward for an internship/practice.
 
-<b>Languages:</b>
+
+<b>Projects</b>
 <ul>
-  <li>C & C++🔧</li>
-  <li>C# 💻</li>
-  <li>Python 🐍</li>
-  <li>PHP 🌐</li>
-  <li>HTML5 & CSS 🌎</li>
-  <li>JavaScript 📜</li>
-  <li>Java ☕</li>
+  <li></li>
 </ul>
-<b>Databases:</b>
+<b>Technologies</b>
+
 <ul>
-  <li>MySQL 🗄️</li>
-  <li>SQLite 📖</li>
-</ul>
-<b>Other skills</b>
-<ul>
-  <li>Linux</li>
+  <li>PHP, JS, HTML, CSS</li>
+  <li>C/C++</li>
+  <li>Python</li>
+  <li>AI</li>
   <li>Matlab</li>
-  <li>Git</li>
+  <li>and also basics of:</li>
+  <ul>
+    <li>Git</li>
+    <li>Linux</li>
+    <li>Java</li>
+    <li>Cybersecurity</li>
+    <li>C# / Entity Framework Core</li>
+  </ul>
 </ul>
-
-Looking forward for internship/practice! 🚀
