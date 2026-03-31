@@ -41,6 +41,6 @@ Professionally, I work as a **Fullstack Developer**, bridging the gap between ro
 </div>
 
 <div align="center">
-  Linkedin: https://www.linkedin.com/in/sebastian-marcinowski-65620b351/
+  Linkedin: <a href="https://www.linkedin.com/in/sebastian-marcinowski-65620b351/">LinkedIn Profile</a> <br>
   Email: sebastian.marcinowskig2@gmail.com
 </div>
