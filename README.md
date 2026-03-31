@@ -2,9 +2,6 @@
   
 # Hi there, I'm [Your Name]! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/[your-profile]/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://[your-website].pl)
-
 **Fullstack Developer | MSc Computer Science Student @ ZUT**
 
 </div>
@@ -53,4 +50,9 @@ Professionally, I work as a **Fullstack Developer**, bridging the gap between ro
 ---
 <div align="center">
   <i>Always open to discussing new technologies, fullstack architecture, and exciting ideas! 🚀</i>
+</div>
+
+<div align="center">
+  Linkedin: https://www.linkedin.com/in/sebastian-marcinowski-65620b351/
+  Email: sebastian.marcinowskig2@gmail.com
 </div>
