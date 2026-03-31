@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Sebastian! 👋
 
 **Fullstack Developer | MSc Computer Science Student @ ZUT**
 
@@ -17,8 +17,7 @@ Professionally, I work as a **Fullstack Developer**, bridging the gap between ro
 * 💼 **Current Role:** Fullstack Developer (focusing on Symfony & Vue.js).
 * 🎓 **Education:** BSc Eng. in Computer Science (2026) -> Currently: MSc CS Student @ ZUT.
 * 🛠️ **Workflow & Tools:** Experienced with Docker, Git, Jira, and Bitbucket for daily development and project management.
-* 🌱 **Currently learning:** *[e.g., advanced system architecture, AWS, writing a Master's thesis on X]*
-* 📫 **How to reach me:** [your.email@domain.com](mailto:your.email@domain.com)
+* 🌱 **Currently learning:** Vanilla JS, Stimulus, Python
 
 ---
 
@@ -41,11 +40,9 @@ Professionally, I work as a **Fullstack Developer**, bridging the gap between ro
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radium&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radium&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sebastianmarcinowski&show_icons=true&theme=radium&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmarcinowski&layout=compact&theme=radium&hide_border=true" />
 </div>
-
-> *Note: To make the stats work, replace `[YOUR_GITHUB_USERNAME]` in the image links above with your actual GitHub username.*
 
 ---
 <div align="center">
