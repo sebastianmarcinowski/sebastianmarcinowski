@@ -1,74 +1,56 @@
-## Hi there, I'm Sebastian 👋
+<div align="center">
+  
+# Hi there, I'm [Your Name]! 👋
 
-<b>About Me</b>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/[your-profile]/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?style=for-the-badge&logo=google-chrome)](https://[your-website].pl)
 
-I'm Sebastian Marcinowski, a third-year computer science student at the West Pomeranian University of Technology in Szczecin.
+**Fullstack Developer | MSc Computer Science Student @ ZUT**
 
-I'm currently looking forward for an internship/practice.
+</div>
 
+---
 
-## <b>Projects</b>
-<ul>
-  <li>Better Plan for ZUT: <a href="https://github.com/sebastianmarcinowski/BetterPlan-Projekt-CaleTe">Projekt Całe-Te</a></li>
-</ul>
+## 👨‍💻 About Me
 
-## <b>Technologies</b>
-<ul style="list-style-position: inside;">
-  <b><li>PHP, JS, HTML, CSS</li></b>
-  <ul style="list-style-position: inside;">
-    <li><a href="https://github.com/sebastianmarcinowski/Aplikacje-Internetowe-1">Web Applications</a></li>
-  </ul>
-  <b><li>C/C++</li></b>
-    <ul style="list-style-position: inside;">
-      <li>
-        <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%202/C%20and%20C%2B%2B%20Programming">C/C++ course</a>
-      </li>
-      <li>
-        <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%203/Algorithms%202">Algorithms 2</a>  
-      </li>
-      <li>
-        <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%204/Data%20Transmission">Data Transmission</a>
-      </li>
-    </ul>
-  <b><li>Python</li></b>
-    <ul style="list-style-position: inside;">
-      <li>
-        <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%203/Python">Python course</a>
-      </li>
-      <li>
-        <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%204/Data%20Processing%20and%20Analysis%20(PiAD)">Data Processing and Analysis</a>
-      </li>
-    </ul style="list-style-position: inside;">
-  <b><li>AI</li></b>
-    <ul style="list-style-position: inside;">
-      <li>
-        <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%205/Artificial%20Intelligence">Artificial Intelligence</a>
-      </li>
-    </ul>
-  <b><li>Matlab</li></b>
-    <ul style="list-style-position: inside;">
-      <li>
-        <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%203/Numerical%20Methods">Numericla Methods</a>
-      </li>
-    </ul>
-  <b><li>Databases MySQL/SQLite</li></b>
-    <ul style="list-style-position: inside;">
-      <li>
-        <a href="https://github.com/sebastianmarcinowski/UniversityCourses/tree/main/Semester%205/Data%20Managment">Data Managment</a>
-      </li>
-    </ul>
-  <b><li>and also basics of:</li></b>
-  <ul style="list-style-position: inside;">
-    <li>Git</li>
-    <li>Linux</li>
-    <li>Java</li>
-    <li>Cybersecurity</li>
-    <li>C# / Entity Framework Core</li>
-  </ul>
-</ul>
+I am a passionate software developer based in Szczecin. I recently graduated with a **BSc (Engineer's degree) in Computer Science in 2026** from the West Pomeranian University of Technology (ZUT) and I am currently continuing my academic journey there as a **1st-year Master's student**. 
 
-## <b>Contact</b>
-<ul>
-  <li>Email: sebastian.marcinowskig2@gmail.com</li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/sebastian-marcinowski-65620b351/">LinkedIn Profile</a></li>
-</ul>
+Professionally, I work as a **Fullstack Developer**, bridging the gap between robust backend architectures and dynamic user interfaces. I am highly comfortable working in agile environments and managing containerized deployments.
+
+* 💼 **Current Role:** Fullstack Developer (focusing on Symfony & Vue.js).
+* 🎓 **Education:** BSc Eng. in Computer Science (2026) -> Currently: MSc CS Student @ ZUT.
+* 🛠️ **Workflow & Tools:** Experienced with Docker, Git, Jira, and Bitbucket for daily development and project management.
+* 🌱 **Currently learning:** *[e.g., advanced system architecture, AWS, writing a Master's thesis on X]*
+* 📫 **How to reach me:** [your.email@domain.com](mailto:your.email@domain.com)
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
+
+### DevOps & Workflow
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radium&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radium&hide_border=true" />
+</div>
+
+> *Note: To make the stats work, replace `[YOUR_GITHUB_USERNAME]` in the image links above with your actual GitHub username.*
+
+---
+<div align="center">
+  <i>Always open to discussing new technologies, fullstack architecture, and exciting ideas! 🚀</i>
+</div>
