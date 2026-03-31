@@ -36,15 +36,6 @@ Professionally, I work as a **Fullstack Developer**, bridging the gap between ro
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sebastianmarcinowski&show_icons=true&theme=radium&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmarcinowski&layout=compact&theme=radium&hide_border=true" />
-</div>
-
----
 <div align="center">
   <i>Always open to discussing new technologies, fullstack architecture, and exciting ideas! 🚀</i>
 </div>
